@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-ThinItalic.woff2') format('woff2'),
+        url('Morganite-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-Thin.woff2') format('woff2'),
+        url('Morganite-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-SemiBoldItalic.woff2') format('woff2'),
+        url('Morganite-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-Light.woff2') format('woff2'),
+        url('Morganite-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-ExtraLight.woff2') format('woff2'),
+        url('Morganite-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-LightItalic.woff2') format('woff2'),
+        url('Morganite-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-MediumItalic.woff2') format('woff2'),
+        url('Morganite-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-Book.woff2') format('woff2'),
+        url('Morganite-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-BoldItalic.woff2') format('woff2'),
+        url('Morganite-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-ExtraBoldItalic.woff2') format('woff2'),
+        url('Morganite-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-ExtraBold.woff2') format('woff2'),
+        url('Morganite-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-Medium.woff2') format('woff2'),
+        url('Morganite-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-SemiBold.woff2') format('woff2'),
+        url('Morganite-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-ExtraLightItalic.woff2') format('woff2'),
+        url('Morganite-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-Bold.woff2') format('woff2'),
+        url('Morganite-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-Black.woff2') format('woff2'),
+        url('Morganite-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-BookItalic.woff2') format('woff2'),
+        url('Morganite-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Morganite';
+    src: url('Morganite-BlackItalic.woff2') format('woff2'),
+        url('Morganite-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

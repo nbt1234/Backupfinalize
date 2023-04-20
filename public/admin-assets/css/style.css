@@ -1,0 +1,50 @@
+.card-body {
+    /*background: #eceaea !important;*/
+}
+
+a {
+    cursor: pointer;
+}
+
+.form-valid-error {
+    display: block;
+    width: 100%;
+    color: #ff0000;
+}
+
+.access-img {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.access-img img {
+    margin: auto;
+    width: 500px;
+}
+
+.sm-btn {
+    width: 100px !important;
+}
+
+.sm-img {
+    width: 100px !important;
+    height: 50px;
+    object-fit: cover;
+}
+
+.select2-selection__arrow {
+    padding: 20px 0;
+}
+
+span.select2-selection.select2-selection--single {
+    height: 40px;
+}
+
+.create-add-icon i {
+    font-size: 15px;
+}
+.has-treeview li {
+    padding: 0 0 0 20px;
+}

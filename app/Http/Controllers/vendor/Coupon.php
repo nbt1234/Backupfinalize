@@ -1,0 +1,37 @@
+<?php
+
+namespace App\Http\Controllers\vendor;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+
+// use App\Models\;
+
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Str;
+
+
+class Coupon extends Controller
+{
+	public function index()
+	{
+		$inputs = $request->input();
+
+    	// $result['all_info'] = DB::table('')->get();
+		return view('');
+	}
+
+	public function add_(Request $request)
+	{
+		$request->validate([
+			'name'=> 'required|min:4|max:20|unique:table_name',
+			'img'=> 'required|mimes:jpg,jpeg,png',
+			'status'=> 'required'
+		]);
+
+		$inputs = $request->input();
+	}
+
+
+}
